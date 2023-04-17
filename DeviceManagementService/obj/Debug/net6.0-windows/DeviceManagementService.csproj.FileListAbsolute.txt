@@ -1,0 +1,195 @@
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.exe
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.deps.json
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.runtimeconfig.json
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\M2Mqtt.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.AssemblyReference.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form1.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.GenerateResource.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfoInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfo.cs
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CoreCompileInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CopyComplete
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\refint\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.genruntimeconfig.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\ref\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form2.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\Test\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Properties.Resources.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.exe
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.deps.json
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.runtimeconfig.json
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\M2Mqtt.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.AssemblyReference.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form1.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form2.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Properties.Resources.resources
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.GenerateResource.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfoInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfo.cs
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CoreCompileInputs.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CopyComplete
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\refint\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.genruntimeconfig.cache
+C:\Users\suat.mollasalihoglu\Source\Repos\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\ref\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.exe
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.deps.json
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.runtimeconfig.json
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\M2Mqtt.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.AssemblyReference.cache
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form1.resources
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Form2.resources
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.Properties.Resources.resources
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.GenerateResource.cache
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfoInputs.cache
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.AssemblyInfo.cs
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CoreCompileInputs.cache
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.csproj.CopyComplete
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\refint\DeviceManagementService.dll
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.pdb
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\DeviceManagementService.genruntimeconfig.cache
+C:\Users\suat.mollasalihoglu\Desktop\New folder\DeviceManagementService\DeviceManagementService\obj\Debug\net6.0-windows\ref\DeviceManagementService.dll
